@@ -1,9 +1,6 @@
-import Head from "next/head";
-import Image from "next/image";
-import styles from "../styles/Home.module.css";
+import Script from "next/script";
 
 export default function Home({ dataWeb }) {
-  console.log();
   return (
     <div>
       {/* Header Section Start */}
@@ -599,6 +596,7 @@ export default function Home({ dataWeb }) {
         </div>
       </footer>
       {/* Footer Section */}
+      <Script src="dist/js/script.js" />
     </div>
   );
 }
