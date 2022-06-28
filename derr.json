@@ -1,0 +1,182 @@
+{
+  "navbar": {
+    "title": "DerrylYouri",
+    "list": [
+      {
+        "name": "Beranda",
+        "href": "#Beranda"
+      },
+      {
+        "name": "About",
+        "href": "#About"
+      },
+      {
+        "name": "Portofolio",
+        "href": "#Portofolio"
+      },
+      {
+        "name": "Blog",
+        "href": "#Blog"
+      }
+    ]
+  },
+  "header": {
+    "heading": "Derryl Youri Muhammed",
+    "subHeading": "UI/UX Desainer",
+    "subHeading2": "Website Portofolio UI/UX Desain",
+    "Button": {
+      "name": "Hire me!",
+      "color": "bg-primary"
+    },
+    "Image": {
+      "alt": "derryl",
+      "url": "dist/img/derr.png"
+    }
+  },
+  "about": {
+    "kiri": {
+      "sectionTitle": "Tentang Saya",
+      "textHead": "Miliki Desain Website Ekslusifmu",
+      "paragraf": "Saya Mendesain website, ilustrasi, icon, dan logo ekslusif. Mempunyai moto dari klien untuk klien"
+    },
+    "kanan": {
+      "sectionTitle": "null",
+      "textHead": "Mari berteman",
+      "paragraf": "Hubungi saya, kapanpun dimanapun. mari mendesain",
+      "icon": [
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/derrylyouri"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/derryours_/"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/derryl.youri1"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/derryl06"
+        }
+      ]
+    }
+  },
+  "portofolio": {
+    "sectionTitle": "Portofolio",
+    "textHead": "Project Terbaru",
+    "paragraf": "Kumpulan portofolio desain yang sudah saya buat",
+    "content": [
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "dist/img/porto/1.jpg",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "dist/img/porto/2.jpg",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "dist/img/porto/3.jpg",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "dist/img/porto/4.jpg",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      }
+    ]
+  },
+  "blog": {
+    "sectionTitle": "Blog",
+    "textHead": "Tulisan Terkini",
+    "paragraf": "Kumpulan Blog desain ",
+    "content": [
+      {
+        "image": {
+          "alt": "Desain aestetik sekali",
+          "src": "https://source.unsplash.com/360x200?design",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "https://source.unsplash.com/360x200?design",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Fitur terbaru figma",
+          "src": "https://source.unsplash.com/360x200?design",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      }
+    ]
+  },
+  "Footer": {
+    "kiri": {
+      "title": "Derryl Youri Muhammed",
+      "paragraf": "Hubungi Saya",
+      "email": "derrylyouri7@gmail.com",
+      "alamat": "Semarang"
+    },
+    "tengah": {
+      "title": "Kategori Tulisan",
+      "link": [
+        {
+          "name": "UI/UX",
+          "url": "#"
+        },
+        {
+          "name": "Ilustrasi",
+          "url": "#"
+        },
+        {
+          "name": "3D Design",
+          "url": "#"
+        }
+      ]
+    },
+    "kanan": {
+      "title": "Tautan",
+      "link": [
+        {
+          "name": "Beranda",
+          "url": "#"
+        },
+        {
+          "name": "About",
+          "url": "#"
+        },
+        {
+          "name": "Portofolio",
+          "url": "#"
+        },
+        {
+          "name": "Blog",
+          "url": "#"
+        }
+      ]
+    }
+  }
+}
